@@ -14,6 +14,7 @@ nowy wpis
 - [Sourabh Kumar](https://github.com/sourabhkumar47)
 - [axyut](https://github.com/axyut)
 - [Renzo Pereyra] (https://github.com/renzopereyra115)
+- [Marino Marinozzi] (https://github.com/mmarinozzi)
 - [larry Xue](https://github.com/larry-xue)
 - [Vipin Pathak](https://github.com/vipin018)
 - [Harsh Gupta](https://github.com/harshhes)
